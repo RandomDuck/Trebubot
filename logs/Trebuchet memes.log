@@ -1,0 +1,24 @@
+Trebuchet memes [bot-testing]: 2018-12-24[22:57:00]: RandomDucks#1750(RandomDucks): test
+Trebuchet memes [general]: 2019-01-16[11:37:21]: RandomDucks#1750(RandomDucks): ?serverstat
+Trebuchet memes [bot-testing]: 2019-01-16[11:38:05]: RandomDucks#1750(RandomDucks): ?template
+Trebuchet memes [bot-testing]: 2019-01-16[11:38:29]: RandomDucks#1750(RandomDucks): ?hello there
+Trebuchet memes [bot-testing]: 2019-01-16[11:38:29]: Trebubot#1708(Trebubot): General kenobi!
+Trebuchet memes [bot-testing]: 2019-01-16[11:39:43]: RandomDucks#1750(RandomDucks): ?cmd self.message.channel.send("test"9
+Trebuchet memes [bot-testing]: 2019-01-16[11:39:50]: RandomDucks#1750(RandomDucks): ?cmd self.message.channel.send("test")
+Trebuchet memes [bot-testing]: 2019-01-16[11:39:50]: Trebubot#1708(Trebubot): test
+Trebuchet memes [bot-testing]: 2019-01-16[11:43:51]: RandomDucks#1750(RandomDucks): ?serverstat
+Trebuchet memes [bot-testing]: 2019-01-16[11:44:19]: RandomDucks#1750(RandomDucks): ?serverstat
+Trebuchet memes [bot-testing]: 2019-01-16[11:45:14]: RandomDucks#1750(RandomDucks): ?serverstat
+Trebuchet memes [bot-testing]: 2019-01-16[11:45:14]: Trebubot#1708(Trebubot): ```Online: 3.
+Idle: 0.
+Do not disturb: 1.
+Offline: 2```
+Trebuchet memes [bot-testing]: 2019-01-16[12:14:09]: RandomDucks#1750(RandomDucks): ?serverstat
+Trebuchet memes [bot-testing]: 2019-01-16[12:14:10]: Trebubot#1708(Trebubot): ```Online: 0.
+Idle: 0.
+Do not disturb: 1.
+Offline: 2.```
+Trebuchet memes [bot-testing]: 2019-01-16[12:14:18]: RandomDucks#1750(RandomDucks): there i no longer counts bots
+Trebuchet memes [bot-testing]: 2019-01-16[12:14:41]: RandomDucks#1750(RandomDucks): and it dosent count idle or DND members as "online" cause that is stupid
+Trebuchet memes [bot-testing]: 2019-01-16[12:18:40]: RandomDucks#1750(RandomDucks): ?template
+Trebuchet memes [bot-testing]: 2019-01-16[12:18:40]: Trebubot#1708(Trebubot): An unexpected command for sure, But a welcome one.
